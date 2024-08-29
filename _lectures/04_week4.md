@@ -12,5 +12,5 @@ links:
 ---
 **Suggested Readings:**
 - Chapter 2.4~3.3
-- [[chapter 3 summary slides (courtesy of professor Fu-Chuen Chang)]](/nsysu-calculus1/static_files/presentations/chap03_Summary_Chinese.pdf)
+- [[chapter 3 summary slides (courtesy of professor Fu-Chuen Chang)]](/nsysu-calculus1-2023/static_files/presentations/chap03_Summary_Chinese.pdf)
 - [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-87U70TwlvGrxaz1yu1EIGjH&si=3USrQAaKn5_CJobS)
